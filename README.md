@@ -2,7 +2,8 @@
 
 Profesional en formación en análisis de laboratorio, con especial interés en microbiología, biotecnología y control de calidad. Combino esta formación con una base sólida en programación web y gestión de datos.
 
-### 🎓 Formación destacada
+## 🎓 Formación destacada
+- **Certificado de Profesionalidad (adaptado) – Ensayos Microbiológicos y Biotecnológicos**
 - **Curso Superior en Programación de Páginas Web (975 h)** – MasterD  
   - HTML/CSS · JavaScript · PHP · SQL · Apache  
   - Nota global: **Sobresaliente**
