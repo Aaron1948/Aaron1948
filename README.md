@@ -21,7 +21,7 @@ Técnico de laboratorio en formación (Ensayos Microbiológicos y Biotecnológic
 - **Herramientas:** Git, GitHub, XAMPP, Apache  
 
 ### 📂 Proyectos destacados
-- (Aquí añadiremos tus mejores repositorios)
+- https://github.com/Aaron1948?tab=repositories
 
 ### 📫 Contacto
 - Email: aaron.chaves.lab@hotmail.com
