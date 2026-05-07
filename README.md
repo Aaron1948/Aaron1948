@@ -1,6 +1,6 @@
 # 👋 Hola, soy Aarón Chaves
 
-Técnico de laboratorio en formación (Ensayos Microbiológicos y Biotecnológicos) con una base sólida en programación web y gestión de datos.
+Profesional en formación en análisis de laboratorio, con especial interés en microbiología, biotecnología y control de calidad. Combino esta formación con una base sólida en programación web y gestión de datos.
 
 ### 🎓 Formación destacada
 - **Curso Superior en Programación de Páginas Web (975 h)** – MasterD  
