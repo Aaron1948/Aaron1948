@@ -35,6 +35,9 @@ Profesional en formación en análisis de laboratorio, con especial interés en 
 👉 [Ver web](https://aaron1948.github.io/Web_con_bootstrap5/)
 👉 [Ver código](https://github.com/Aaron1948/Web_con_bootstrap5)
 
+- **Web con PHP**
+👉 [Ver código](https://github.com/Aaron1948/Cocina_comunitaria)
+
 ### 📫 Contacto
 - Email: aaron.chaves.lab@hotmail.com
 
