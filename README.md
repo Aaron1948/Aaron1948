@@ -53,6 +53,8 @@ NIVEL AVANZADO
 
 ### 📫 Contacto
 - Email: aaron.chaves.lab@hotmail.com
+  
+Actualmente busco realizar mis prácticas en un entorno de laboratorio donde pueda aplicar mis conocimientos en calidad, microbiología y digitalización de procesos.
 
 <!--
 **Aaron1948/Aaron1948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
