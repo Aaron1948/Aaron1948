@@ -23,19 +23,32 @@ Profesional en formación en análisis de laboratorio, con especial interés en 
 
 ### 📂 Proyectos destacados
 
+NIVEL BASICO
+------------
+
 - **Web Estática**
+- Sitio web básico en HTML y CSS.
 👉 [Ver web](https://aaron1948.github.io/trabajo_final/)
 👉 [Ver código](https://github.com/Aaron1948/trabajo_final)
 
+NIVEL INTERMEDIO
+----------------
+
 - **Web Javascript**
+- Proyecto interactivo con JS.
 👉 [Ver web](https://aaron1948.github.io/Skaramuza_13_Final/)
 👉 [Ver código](https://github.com/Aaron1948/Skaramuza_13_Final)
 
 - **Web con Bootstrap**
+- Diseño responsive con Bootstrap 5.
 👉 [Ver web](https://aaron1948.github.io/Web_con_bootstrap5/)
 👉 [Ver código](https://github.com/Aaron1948/Web_con_bootstrap5)
 
+NIVEL AVANZADO
+--------------
+
 - **Web con PHP**
+- Aplicación con backend en PHP y MySQL.
 👉 [Ver código](https://github.com/Aaron1948/Cocina_comunitaria)
 
 ### 📫 Contacto
